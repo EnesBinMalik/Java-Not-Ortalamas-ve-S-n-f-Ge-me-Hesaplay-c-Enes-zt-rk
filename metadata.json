@@ -1,0 +1,6 @@
+{
+  "name": "Java Not Ortalaması ve Sınıf Geçme Hesaplayıcı | Enes Öztürk",
+  "description": "Java ile Matematik, Fizik, Kimya, Türkçe, Tarih ve Müzik dersleri için not ortalaması hesaplayan, ternary operatörü ile sınıf geçme durumunu belirleyen profesyonel ödev ve simülasyon platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
